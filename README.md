@@ -18,4 +18,5 @@ Usage
 -----
     python manage.py runserver 
     
-   
+   ![image](https://github.com/linyaohui/programming_exercise/screenshots/longin.png)
+   ![image](https://github.com/linyaohui/programming_exercise/screenshots/usage.png)
